@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey Form</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>SURVEY FORM</h1>
+  <div>
+    <form class="form-control">
+      <label for="name">Name</label>
+      <input id="name" type="text" placeholder="Enter your name">
+
+      <label for="email">Email</label>
+      <input id="email" type="text" placeholder="Enter your email">
+
+      <label for="dob">DOB</label>
+      <input id="dob" type="datetime-local" placeholder="Enter your age">
+
+      <label for="select">What is your qualification?</label>
+      <select id="select">
+        <option>Student</option>
+        <option>Undergraduate</option>
+        <option>Post-graduate</option>
+        <option>Working Professional</option>
+      </select>
+
+      <p>Did you like this project?</p>
+      <label><input name="tic" type="radio"> Yes</label>
+      <label><input name="tic" type="radio"> No</label>
+      <label><input name="tic" type="radio"> Maybe</label>
+
+      <p>Languages that you know or want to learn <small>(check all that apply)</small></p>
+      <label><input type="checkbox"> C</label>
+      <label><input type="checkbox"> C++</label>
+      <label><input type="checkbox"> C#</label>
+      <label><input type="checkbox"> Python</label>
+      <label><input type="checkbox"> Java</label>
+      <label><input type="checkbox"> JavaScript</label>
+      <label><input type="checkbox"> React</label>
+      <label><input type="checkbox"> Angular</label>
+      <label><input type="checkbox"> Django</label>
+      <label><input type="checkbox"> Spring</label>
+
+      <label for="feedback">Any comments or suggestions</label>
+      <textarea id="feedback" placeholder="Enter your feedback here"></textarea>
+
+      <button id="submit-btn">SUBMIT</button>
+    </form>
+  </div>
+</body>
+</html>
