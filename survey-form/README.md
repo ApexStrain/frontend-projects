@@ -19,7 +19,7 @@ CSS3 (for styling)
 📂 Folder Structure
 
 survey-form/
-│── index.html
+│── Survey-Form.html
 │── styles.css
 │── README.md
 
@@ -39,7 +39,7 @@ How to make a form more user-friendly
 git clone https://github.com/ApexStrain/frontend-projects.git
 
 
-2. Open Survey.html in your browser.
+2. Open Survey-Form.html in your browser.
 
 
 
