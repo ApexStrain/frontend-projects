@@ -1,3 +1,4 @@
-# frontend-projects
-"This repository contains all my frontend projects, built using HTML, CSS, and JavaScript. Documenting my web development journey from beginner to advanced!"
+# Frontend-Projects from Roadmap.sh
+This repository contains all my front-end projects built following the roadmap.sh front-end developer path.
 https://roadmap.sh/projects/single-page-cv
+#Project List
