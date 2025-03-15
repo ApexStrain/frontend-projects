@@ -35,5 +35,6 @@ Feel free to fork this repository and suggest improvements.
 
 🔹 Contact
 
-📧 Email: your-email@example.com
+📧 Email: adityatiwari.code@gmail.com
+tiwariadityasga3406@gmail.com
 🔗 LinkedIn:https://www.linkedin.com/in/aditya-biz
