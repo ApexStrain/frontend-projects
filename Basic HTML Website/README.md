@@ -1,41 +1,15 @@
- Basic HTML Website
-
-A simple HTML website created as part of my frontend development learning journey from roadmap.sh.
-
-🔹 Overview
-
-This project is a beginner-friendly static website built using HTML. It includes multiple sections like a homepage, an article and project page, and a contact form.
-
-🔹 Features
-
-✅ Responsive Design (if applicable)
-✅ Simple Navigation
-✅ Clean and Structured Code
-
-🔹 Technologies Used
-
-HTML
-
-CSS 
-
-
-🔹 Installation & Usage
-
-1. Clone this repository:
-
-git clone https://github.com/ApexStrain/projects.git
-
-
-2. Open the index.html file in a browser.
-
-
-🔹 Contributing
-
-Feel free to fork this repository and suggest improvements.
-
-🔹 Contact
-
-📧 Email: adityatiwari.code@gmail.com
-tiwariadityasga3406@gmail.com
-🔗 LinkedIn:https://www.linkedin.com/in/aditya-biz
-https://roadmap.sh/projects/basic-html-website
+ <h1>Basic HTML Website </h1>
+ <hr>
+ <h2>Goal</h2>
+ <hr>
+ <p>Create a basic Website using HTML.Focus on using correct HTML tags and structure.</p>
+ <br>
+ <h2>Requirements</h2>
+ <hr>
+ <ul>
+  <li>Pages:Home, Projects,Arricle, Contact</li>
+  <li>Navigation bar with link to each page,at the top of each page</li>
+  <li>Structure the content in a way that makes adding styles easy</li>
+  <li>Add SEO meta tags</li>
+ </ul>
+ 
